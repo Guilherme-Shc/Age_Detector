@@ -1,0 +1,52 @@
+*{
+    margin: 0 auto;
+    font-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    text-align: center;
+  }
+  
+  
+  body{
+    background-color: rgb(199, 224, 231);
+  }
+  
+  h1{
+    font-size: 4em;
+    font-weight: 900;
+  }
+  
+  section{
+    background-color: #b3bcf8;
+    border-radius: 10px;
+    padding: 20px;
+    width: 500px;
+    color: black;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.514);
+  }
+
+  footer{
+    padding: 10px;
+  }
+
+  p{
+    padding: 20px;
+    font-size: 1.5em;
+  }
+  
+img{
+    padding: 20px;
+    border-radius: 50%;
+    width: 350px;
+    height: 340px;
+  }
+  
+#age_input{
+    padding-top: 5px;
+    border: 0;
+    border-radius: 10px;
+}
+#res{
+    padding: 25px;
+    font-size: 1.5em;
+}
